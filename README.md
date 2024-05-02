@@ -1,9 +1,9 @@
 <h1 align="center">Welcome to my GitHub page 👋 </h1>
 <div align="center"> 
 Hi! My name's Oliwier and I'm a young and ambitious Android Developer. <br/>
-I love writing apps using the latest technologies or toolkits such as Jetpack Compose,
+I love writing apps using the latest technologies or toolkits such as Jetpack Compose, <br/>
 but I do not forget about the basics!
-I'm very open-minded and ready for constructive criticism.
+I'm very open-minded and ready for constructive criticism. <br/>
 My extrovert personality makes it easy to work in a team and solve any kind of issue together
 </div>
 <h2 align="center"> My tools 🔨 </h2>
