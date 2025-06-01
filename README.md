@@ -8,7 +8,7 @@ My outgoing personality makes working in a team enjoyable, and I’m always up f
 <h2 align="center"> My tools 🔨 </h2>
 <p align="center"><img src="https://skillicons.dev/icons?i=js,html,css,vscode,github"/>
 <h2 align="center"> My statistics 📊 </h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JuncProgramming&hide=stars,prs&show_icons=true&theme=merko&rank_icon=github"</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JuncProgramming&hide=stars,prs&show_icons=true&theme=cobalt2&rank_icon=github"</p>
 <br/>
 <p align="center"><a href="oli.junc@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Send me an email"></a>
 <a href="https://stackoverflow.com/users/16768434/juncu" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" title="Check out my StackOverflow"></a>
