@@ -1,13 +1,12 @@
 <h1 align="center">Welcome to my GitHub page 👋 </h1>
 <div align="center"> 
-Hi! My name's Oliwier and I'm a young and ambitious Android Developer. <br/>
-I love writing apps using the latest technologies or toolkits such as Jetpack Compose, <br/>
-but I do not forget about the basics!
-I'm very open-minded and ready for constructive criticism. <br/>
-My extrovert personality makes it easy to work in a team and solve any issue together
+Hi! My name's Oliwier and I'm a young and ambitious JavaScript Developer.
+I love building web applications and crafting interactive features with JavaScript.
+I'm always eager to learn new things and open to constructive feedback.
+My outgoing personality makes working in a team enjoyable, and I’m always up for collaborating to solve challenges.
 </div>
 <h2 align="center"> My tools 🔨 </h2>
-<p align="center"><img src="https://skillicons.dev/icons?i=github,androidstudio,kotlin"/>
+<p align="center"><img src="https://skillicons.dev/icons?i=js,html,css,vscode,github"/>
 <h2 align="center"> My statistics 📊 </h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=JuncProgramming&hide=stars,prs&show_icons=true&theme=merko&rank_icon=github"</p>
 <br/>
