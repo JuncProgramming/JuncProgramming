@@ -1,9 +1,8 @@
 <h1 align="center">Welcome to my GitHub page 👋 </h1>
 <div align="center"> 
-Hi! My name's Oliwier and I'm a young and ambitious JavaScript Developer.
-I love building web applications and crafting interactive features with JavaScript.
-I'm always eager to learn new things and open to constructive feedback.
-My outgoing personality makes working in a team enjoyable, and I’m always up for collaborating to solve challenges.
+Hey, I’m Oliwier!
+I’m diving into JavaScript and web development, <br> building small projects to get better every day.
+I’m curious,<br> open-minded, and always up for a challenge - learning never stops!
 </div>
 <h2 align="center"> My tools 🔨 </h2>
 <p align="center"><img src="https://skillicons.dev/icons?i=js,html,css,vscode,github"/>
