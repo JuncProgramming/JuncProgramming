@@ -1,0 +1,27 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=JuncProgramming&hide=stars,prs&show_icons=true&theme=cobalt2&rank_icon=github
+          path: ./profile/stats.svg
+          
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ./profile/stats.svg
+          git commit -m "Update stats card" || echo "No changes to commit"
+          git push
